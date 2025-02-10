@@ -1,4 +1,4 @@
-## Student Profile App
+# Student Profile App
 
 ## Project Description
 
