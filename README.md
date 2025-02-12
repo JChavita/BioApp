@@ -23,7 +23,7 @@ Replace projectName with the desired name of your project.
 ### 2. Install required dependencies
 
 Navigate into your newly created project folder and install the necessary packages:
-´´´sh hello ´´
+
 npm install @react-native-async-storage/async-storage @react-native-community/datetimepicker expo-image-picker
 
 ### 3. Replace App.js
