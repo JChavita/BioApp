@@ -23,9 +23,9 @@ Replace projectName with the desired name of your project.
 ### 2. Install required dependencies
 
 Navigate into your newly created project folder and install the necessary packages:
-
+```sh
 npm install @react-native-async-storage/async-storage @react-native-community/datetimepicker expo-image-picker
-
+```
 ### 3. Replace App.js
 
 Copy the code from App.js in this repository and replace the content of App.js in your newly created project.
@@ -33,18 +33,18 @@ Copy the code from App.js in this repository and replace the content of App.js i
 ### 4. Run the project
 
 Start the application using the following command:
-
+```sh
 npm start
-
+```
 ### 5. Scan the QR code
 
 Use the Expo Go app on your mobile device to scan the QR code and run the application.
 
 ## Usage Instructions
 
-To edit your profile, click the Edit Profile button.
+✅To edit your profile, click the Edit Profile button.
 
-To change your profile picture, click on your profile photo.
+✅To change your profile picture, click on your profile photo.
 
 Enjoy coding! 🚀
 
