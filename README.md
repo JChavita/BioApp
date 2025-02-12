@@ -15,15 +15,15 @@ To run this project, follow these steps:
 ### 1. Create a new React Native project using Expo
 
 Open your terminal (VS Code or any other IDE) and run:
-´´´sh
+
 npx create-expo-app@latest projectName --template blank
-´´´
+
 Replace projectName with the desired name of your project.
 
 ### 2. Install required dependencies
 
 Navigate into your newly created project folder and install the necessary packages:
-
+´´´sh hello ´´
 npm install @react-native-async-storage/async-storage @react-native-community/datetimepicker expo-image-picker
 
 ### 3. Replace App.js
