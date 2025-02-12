@@ -15,9 +15,9 @@ To run this project, follow these steps:
 ### 1. Create a new React Native project using Expo
 
 Open your terminal (VS Code or any other IDE) and run:
-
+```sh
 npx create-expo-app@latest projectName --template blank
-
+```
 Replace projectName with the desired name of your project.
 
 ### 2. Install required dependencies
